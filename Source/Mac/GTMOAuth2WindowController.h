@@ -83,7 +83,7 @@
 
 @class GTMOAuth2SignIn;
 
-@interface GTMOAuth2WindowController : NSWindowController <WebResourceLoadDelegate,WebPolicyDelegate> {
+@interface GTMOAuth2WindowController : NSWindowController {
  @private
   // IBOutlets
   NSButton *keychainCheckbox_;
