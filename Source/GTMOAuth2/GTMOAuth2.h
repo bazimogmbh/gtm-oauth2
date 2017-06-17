@@ -21,5 +21,5 @@ FOUNDATION_EXPORT const unsigned char GTMOAuth2VersionString[];
 #import <GTMOAuth2/GTMHTTPFetcherLogging.h>
 #import <GTMOAuth2/GTMHTTPFetchHistory.h>
 #import <GTMOAuth2/GTMOAuth2Authentication.h>
-#import <GTMOAuth2/GTMOAuth2Signin.h>
+#import <GTMOAuth2/GTMOAuth2SignIn.h>
 #import <GTMOAuth2/GTMOAuth2WindowController.h>
